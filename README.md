@@ -1,4 +1,4 @@
-# NIH Training Tools
+# NIH Training Grant Tools
 
 A modular toolkit developed to support NIH training grant applications, including trainee-publication matching, Table 5 generation, and biosketch verification. Created as part of the Research Development Certificate internship at Stanford.
 
