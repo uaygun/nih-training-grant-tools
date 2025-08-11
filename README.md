@@ -45,12 +45,12 @@ Open the Colab notebook in the modules/ folder and follow the upload prompts.
 https://table5ab.streamlit.app
 ⸻
 
-## 📄 License
+# 📄 License
 MIT License.
 
 ---
 
-## 🤝 Contributors
+# 🤝 Contributors
 - **Ugur Aygun** 
 - **Justin Crest**
 
