@@ -8,7 +8,7 @@ from docx.enum.table import WD_TABLE_ALIGNMENT
 
 # ---------------- UI ----------------
 st.set_page_config(page_title="Mentor Tables → 5A/5B DOCX", layout="wide")
-st.title("Generate Table 5.docx from Mentor Master Files (Tables 5A & 5B) and bibliography" ) 
+st.title("Generate Table 5.docx from Mentor Master Files (Tables 5A & 5B)" ) 
 
 st.markdown("""
 **What to upload**
