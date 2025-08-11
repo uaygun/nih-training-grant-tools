@@ -12,12 +12,12 @@ st.title("Generate One DOCX from Mentor Files (Tables 5A & 5B)")
 
 st.markdown("""
 **What to upload**
-- **Mentor trainee tables (Excel)**: single or multiple `.xlsx` files from mentors. Each file may include sheets named **“Table 5A”** (past trainees) and/or **“Table 5B”** (current trainees).
+- **Mentor trainee tables (Excel)**: single or multiple `.xlsx` files from mentors. Each file may include sheets named **“Table 5A”** and/or **“Table 5B”**.
 - **Mentor publication exports (CSV)**: single or multiple CSV files with publication data for those mentors/trainees.
 
 **What you get**
 - One **Word (.docx)** with two sections: **Table 5A** and **Table 5B**.
-- Across all uploads, we **merge** sheets, **dedupe trainees**, **merge mentors** per trainee, and **sort** by **Mentor surname → Trainee surname → Trainee first name**.
+- Across all uploads, we **merge** sheets, **deduplicate trainees**, **merge mentors** per trainee, and **sort** by **Mentor surname → Trainee surname → Trainee first name**.
 """)
 
 st.subheader("1) Upload mentor trainee tables (Excel)")
