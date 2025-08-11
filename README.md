@@ -37,3 +37,20 @@ git clone https://github.com/your-username/nih-training-grant-tools.git
 cd nih-training-grant-tools
 pip install -r requirements.txt
 streamlit run run_streamlit.py
+
+### 2. Google Colab
+Open the Colab notebook in the modules/ folder and follow the upload prompts.
+
+### 3. Online (Streamlit Cloud)
+https://table5ab.streamlit.app
+⸻
+
+## 📄 License
+MIT License.
+
+---
+
+## 🤝 Contributors
+- **Ugur Aygun** 
+- **Justin Crest**
+
